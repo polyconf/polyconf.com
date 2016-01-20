@@ -1,0 +1,7 @@
+$(function(){$(".speaker").click(function(event){event.preventDefault();$("#full-modal").fadeIn(500,function(){$("body").css("overflow","hidden");$(document).on("keyup.modalClose",function(e){if(e.keyCode==27||e.keyCode==67){$("#full-modal").fadeOut(500,function(){$("body").css("overflow","scroll");})}});})})
+$("#full-modal").click(function(event){event.preventDefault();$("#full-modal").fadeOut(500,function(){$("body").css("overflow","scroll");})})
+$(".agenda .talk .button").click(function(event){event.preventDefault();$("body").removeClass("more-menu-is-open");$("body").toggleClass("modal-is-open");})
+$("#more-text-link").click(function(event){event.preventDefault();$("body").removeClass("modal-is-open");$("body").toggleClass("more-menu-is-open");})
+$("#half-modal").click(function(event){event.preventDefault();$("body").removeClass("modal-is-open");})
+$("#days-header").stick_in_parent();$("#three-days .day-header").each(function(i,e){$(this).find(".button").click(function(event){event.preventDefault();$("#three-days .open").removeClass("open").addClass("closed");$("#three-days .day-header").eq(i).addClass("open").removeClass("closed");$("#three-days .day").eq(i).addClass("open").removeClass("closed");})})
+$('#slider').unslider({animation:'vertical',autoplay:true,infinite:true,delay:3000,nav:false,arrows:false});})

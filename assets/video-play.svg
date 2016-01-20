@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="92px" height="92px" viewBox="0 0 92 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-176.000000, -1570.000000)" id="Grid" fill="#FFFFFF">
+            <g sketch:type="MSLayerGroup" transform="translate(0.000000, 1480.000000)">
+                <path d="M222,182 C247.405098,182 268,161.405098 268,136 C268,110.594902 247.405098,90 222,90 C196.594902,90 176,110.594902 176,136 C176,161.405098 196.594902,182 222,182 Z M210.780488,151.974678 L210.780488,119.631728 C210.780488,117.353 213.351869,116.023323 215.211463,117.340856 L241.017991,133.526845 C242.587301,134.63881 242.587301,136.967597 241.017991,138.079265 L215.211463,154.265551 C213.351869,155.583084 210.780488,154.253406 210.780488,151.974678 Z" id="Oval-1" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
