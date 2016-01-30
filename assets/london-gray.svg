@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="740px" height="868px" viewBox="0 0 740 868" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>london-gray</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="london-gray" sketch:type="MSArtboardGroup">
+            <ellipse id="Oval-1" stroke="#D4D5D5" stroke-width="6" sketch:type="MSShapeGroup" cx="354.140329" cy="499.755611" rx="293.103448" ry="292.892768"></ellipse>
+            <ellipse id="Oval-1" stroke="#D4D5D5" stroke-width="6" sketch:type="MSShapeGroup" cx="354.140329" cy="499.755611" rx="263.793103" ry="263.603491"></ellipse>
+            <path d="M390.409709,211.589908 L317.013892,239.512358" id="Line" stroke="#D4D5D5" stroke-width="5" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M390.409709,211.589908 L317.013892,239.512358" id="Line" stroke="#D4D5D5" stroke-width="5" stroke-linecap="square" sketch:type="MSShapeGroup" transform="translate(353.711801, 225.551133) scale(-1, 1) translate(-353.711801, -225.551133) "></path>
+            <path d="M390.409709,762.228312 L317.013892,791.127065" id="Line" stroke="#D4D5D5" stroke-width="5" stroke-linecap="square" sketch:type="MSShapeGroup" transform="translate(353.711801, 776.677689) scale(-1, 1) translate(-353.711801, -776.677689) "></path>
+            <path d="M390.409709,762.228312 L317.013892,791.127065" id="Line" stroke="#D4D5D5" stroke-width="5" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(354.579995, 500.951243) rotate(-270.000000) translate(-354.579995, -500.951243) translate(317.079995, 210.451243)" stroke="#CFD0D1" stroke-width="5" stroke-linecap="square">
+                <path d="M74.1447544,0.506387398 L0.748936913,28.4288372" id="Line" sketch:type="MSShapeGroup"></path>
+                <path d="M74.1447544,0.506387398 L0.748936913,28.4288372" id="Line" sketch:type="MSShapeGroup" transform="translate(37.446846, 14.467612) scale(-1, 1) translate(-37.446846, -14.467612) "></path>
+                <path d="M74.1447544,551.535321 L0.748936913,580.434074" id="Line" sketch:type="MSShapeGroup" transform="translate(37.446846, 565.984698) scale(-1, 1) translate(-37.446846, -565.984698) "></path>
+                <path d="M74.1447544,551.535321 L0.748936913,580.434074" id="Line" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(354.036215, 500.142211) rotate(-225.000000) translate(-354.036215, -500.142211) translate(316.536215, 209.642211)" stroke="#CFD0D1" stroke-width="5" stroke-linecap="square">
+                <path d="M74.1447544,0.506387398 L0.748936913,28.4288372" id="Line" sketch:type="MSShapeGroup"></path>
+                <path d="M74.1447544,0.506387398 L0.748936913,28.4288372" id="Line" sketch:type="MSShapeGroup" transform="translate(37.446846, 14.467612) scale(-1, 1) translate(-37.446846, -14.467612) "></path>
+                <path d="M74.1447544,551.535321 L0.748936913,580.434074" id="Line" sketch:type="MSShapeGroup" transform="translate(37.446846, 565.984698) scale(-1, 1) translate(-37.446846, -565.984698) "></path>
+                <path d="M74.1447544,551.535321 L0.748936913,580.434074" id="Line" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(354.630192, 499.613572) rotate(-135.000000) translate(-354.630192, -499.613572) translate(317.130192, 209.113572)" stroke="#CFD0D1" stroke-width="5" stroke-linecap="square">
+                <path d="M74.1447544,0.506387398 L0.748936913,28.4288372" id="Line" sketch:type="MSShapeGroup"></path>
+                <path d="M74.1447544,0.506387398 L0.748936913,28.4288372" id="Line" sketch:type="MSShapeGroup" transform="translate(37.446846, 14.467612) scale(-1, 1) translate(-37.446846, -14.467612) "></path>
+                <path d="M74.1447544,551.535321 L0.748936913,580.434074" id="Line" sketch:type="MSShapeGroup" transform="translate(37.446846, 565.984698) scale(-1, 1) translate(-37.446846, -565.984698) "></path>
+                <path d="M74.1447544,551.535321 L0.748936913,580.434074" id="Line" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(353.922486, 499.514789) rotate(-203.000000) translate(-353.922486, -499.514789) translate(316.422486, 209.014789)" stroke="#CFD0D1" stroke-width="5" stroke-linecap="square">
+                <path d="M74.1447544,0.506387398 L0.748936913,28.4288372" id="Line" sketch:type="MSShapeGroup"></path>
+                <path d="M74.1447544,0.506387398 L0.748936913,28.4288372" id="Line" sketch:type="MSShapeGroup" transform="translate(37.446846, 14.467612) scale(-1, 1) translate(-37.446846, -14.467612) "></path>
+                <path d="M74.1447544,551.535321 L0.748936913,580.434074" id="Line" sketch:type="MSShapeGroup" transform="translate(37.446846, 565.984698) scale(-1, 1) translate(-37.446846, -565.984698) "></path>
+                <path d="M74.1447544,551.535321 L0.748936913,580.434074" id="Line" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(354.250704, 499.222675) rotate(-157.000000) translate(-354.250704, -499.222675) translate(316.750704, 208.722675)" stroke="#CFD0D1" stroke-width="5" stroke-linecap="square">
+                <path d="M74.1447544,0.506387398 L0.748936913,28.4288372" id="Line" sketch:type="MSShapeGroup"></path>
+                <path d="M74.1447544,0.506387398 L0.748936913,28.4288372" id="Line" sketch:type="MSShapeGroup" transform="translate(37.446846, 14.467612) scale(-1, 1) translate(-37.446846, -14.467612) "></path>
+                <path d="M74.1447544,551.535321 L0.748936913,580.434074" id="Line" sketch:type="MSShapeGroup" transform="translate(37.446846, 565.984698) scale(-1, 1) translate(-37.446846, -565.984698) "></path>
+                <path d="M74.1447544,551.535321 L0.748936913,580.434074" id="Line" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(354.418235, 499.500002) rotate(-113.000000) translate(-354.418235, -499.500002) translate(316.918235, 209.000002)" stroke="#CFD0D1" stroke-width="5" stroke-linecap="square">
+                <path d="M74.1447544,0.506387398 L0.748936913,28.4288372" id="Line" sketch:type="MSShapeGroup"></path>
+                <path d="M74.1447544,0.506387398 L0.748936913,28.4288372" id="Line" sketch:type="MSShapeGroup" transform="translate(37.446846, 14.467612) scale(-1, 1) translate(-37.446846, -14.467612) "></path>
+                <path d="M74.1447544,551.535321 L0.748936913,580.434074" id="Line" sketch:type="MSShapeGroup" transform="translate(37.446846, 565.984698) scale(-1, 1) translate(-37.446846, -565.984698) "></path>
+                <path d="M74.1447544,551.535321 L0.748936913,580.434074" id="Line" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(354.710160, 499.828443) rotate(-67.000000) translate(-354.710160, -499.828443) translate(317.210160, 209.328443)" stroke="#CFD0D1" stroke-width="5" stroke-linecap="square">
+                <path d="M74.1447544,0.506387398 L0.748936913,28.4288372" id="Line" sketch:type="MSShapeGroup"></path>
+                <path d="M74.1447544,0.506387398 L0.748936913,28.4288372" id="Line" sketch:type="MSShapeGroup" transform="translate(37.446846, 14.467612) scale(-1, 1) translate(-37.446846, -14.467612) "></path>
+                <path d="M74.1447544,551.535321 L0.748936913,580.434074" id="Line" sketch:type="MSShapeGroup" transform="translate(37.446846, 565.984698) scale(-1, 1) translate(-37.446846, -565.984698) "></path>
+                <path d="M74.1447544,551.535321 L0.748936913,580.434074" id="Line" sketch:type="MSShapeGroup"></path>
+            </g>
+            <ellipse id="Oval-1" stroke="#D4D5D5" stroke-width="6" sketch:type="MSShapeGroup" cx="354.140329" cy="499.755611" rx="134.827586" ry="134.730673"></ellipse>
+            <ellipse id="Oval-1" stroke="#D4D5D5" stroke-width="6" sketch:type="MSShapeGroup" cx="354.140329" cy="499.755611" rx="19.5402299" ry="19.5261845"></ellipse>
+            <polygon id="Triangle-2" stroke="#D4D5D5" stroke-width="6" sketch:type="MSShapeGroup" points="355.11734 497.802993 459.65757 943 250.57711 943 "></polygon>
+            <g id="Oval-5-+-Oval-5" sketch:type="MSLayerGroup" transform="translate(335.459770, 160.000000)" stroke="#CFD0D1" stroke-width="6">
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="23.4482759" cy="23.4314214" rx="23.4482759" ry="23.4314214"></ellipse>
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="23.4482759" cy="656.0798" rx="23.4482759" ry="23.4314214"></ellipse>
+            </g>
+            <g id="Oval-5-+-Oval-5" sketch:type="MSLayerGroup" transform="translate(354.755716, 499.807507) rotate(-270.000000) translate(-354.755716, -499.807507) translate(331.255716, 159.807507)" stroke="#CFD0D1" stroke-width="6">
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="23.4482759" cy="23.4314214" rx="23.4482759" ry="23.4314214"></ellipse>
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="23.4482759" cy="656.0798" rx="23.4482759" ry="23.4314214"></ellipse>
+            </g>
+            <g id="Oval-5-+-Oval-5" sketch:type="MSLayerGroup" transform="translate(354.790691, 499.619498) rotate(-225.000000) translate(-354.790691, -499.619498) translate(331.290691, 159.619498)" stroke="#CFD0D1" stroke-width="6">
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="23.4482759" cy="23.4314214" rx="23.4482759" ry="23.4314214"></ellipse>
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="23.4482759" cy="656.0798" rx="23.4482759" ry="23.4314214"></ellipse>
+            </g>
+            <g id="Oval-5-+-Oval-5" sketch:type="MSLayerGroup" transform="translate(355.136160, 499.546106) rotate(-135.000000) translate(-355.136160, -499.546106) translate(331.636160, 159.546106)" stroke="#CFD0D1" stroke-width="6">
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="23.4482759" cy="23.4314214" rx="23.4482759" ry="23.4314214"></ellipse>
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="23.4482759" cy="656.0798" rx="23.4482759" ry="23.4314214"></ellipse>
+            </g>
+            <g id="Oval-5-+-Oval-5" sketch:type="MSLayerGroup" transform="translate(358.609220, 501.401878) rotate(-339.000000) translate(-358.609220, -501.401878) translate(335.109220, 161.401878)" stroke="#CFD0D1" stroke-width="6">
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="23.4482759" cy="23.4314214" rx="23.4482759" ry="23.4314214"></ellipse>
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="23.4482759" cy="656.0798" rx="23.4482759" ry="23.4314214"></ellipse>
+            </g>
+            <g id="Oval-5-+-Oval-5" sketch:type="MSLayerGroup" transform="translate(354.753405, 499.716479) rotate(-249.000000) translate(-354.753405, -499.716479) translate(331.253405, 159.716479)" stroke="#CFD0D1" stroke-width="6">
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="23.4482759" cy="23.4314214" rx="23.4482759" ry="23.4314214"></ellipse>
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="23.4482759" cy="656.0798" rx="23.4482759" ry="23.4314214"></ellipse>
+            </g>
+            <g id="Oval-5-+-Oval-5" sketch:type="MSLayerGroup" transform="translate(354.853389, 499.553459) rotate(-204.000000) translate(-354.853389, -499.553459) translate(331.353389, 159.553459)" stroke="#CFD0D1" stroke-width="6">
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="23.4482759" cy="23.4314214" rx="23.4482759" ry="23.4314214"></ellipse>
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="23.4482759" cy="656.0798" rx="23.4482759" ry="23.4314214"></ellipse>
+            </g>
+            <g id="Oval-5-+-Oval-5" sketch:type="MSLayerGroup" transform="translate(355.202126, 499.608799) rotate(-114.000000) translate(-355.202126, -499.608799) translate(331.702126, 159.608799)" stroke="#CFD0D1" stroke-width="6">
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="23.4482759" cy="23.4314214" rx="23.4482759" ry="23.4314214"></ellipse>
+                <ellipse id="Oval-5" sketch:type="MSShapeGroup" cx="23.4482759" cy="656.0798" rx="23.4482759" ry="23.4314214"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
