@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1500px" height="1500px" viewBox="0 0 1500 1500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>orbit-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="orbit-3" sketch:type="MSArtboardGroup" stroke="#21395D" stroke-width="4">
+            <path d="M1400.32005,781.99827 C1384.64532,1127.05817 1099.93071,1402 751,1402 C392.014913,1402 101,1110.98509 101,752 C101,393.014913 392.014913,102 751,102 C1100.60496,102 1385.7454,378.005409 1400.4079,724.00281 C1400.27216,724.000939 1400.13619,724 1400,724 C1383.98374,724 1371,736.983742 1371,753 C1371,769.016258 1383.98374,782 1400,782 C1400.10682,782 1400.21351,781.999422 1400.32005,781.99827 Z" id="Oval-1" sketch:type="MSShapeGroup"></path>
+            <circle id="Oval-4" sketch:type="MSShapeGroup" cx="1400" cy="753" r="29"></circle>
+        </g>
+    </g>
+</svg>
