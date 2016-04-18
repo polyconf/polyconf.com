@@ -37,14 +37,14 @@
 
   
 </head>
-<body class="home">
+<body class="meeting">
   <div id="wrapper">
 
     <header>
       <a href="/" id="logo"><span>&nbsp;</span></a>
       <nav>
   <ul>
-    <li  class="active" ><a href="/"><span>About</span></a></li>
+    <li ><a href="/"><span>About</span></a></li>
     <li ><a href="/satellites"><span>Satellites</span></a></li>
     <!-- <li class="soon"><a href="#"><span>Agenda</span></a></li> -->
     <!-- <li ><a href="/tickets"><span>Tickets</span></a></li> -->
@@ -61,178 +61,114 @@
 
     
 
-<section id="first">
-
-  <video autoplay="" loop="" id="video" poster="/assets/video/bg.jpg">
-    <source src="/assets/video/bg2.mp4" type="video/mp4">
-    </video>
-    <div id="video-overlay">&nbsp;</div>
-
-    <div class="container">
-
-      <p class="lead">Polyglot<br>programmers<br>unite</p>
-      <p class="date">Jun 30 - Jul 2, 2016 &middot; Poznan, PL</p>
-
-    </div>
-  </section>
-
-  <section id="register">
-
-    <div class="container">
-
-      <div id="newsletter">
-        <form
-        action="//polyconf.us2.list-manage.com/subscribe/post?u=294dfa55a7b056bcc82ffae2d&amp;id=409201e872"
-        method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
-        class="validate" target="_blank" novalidate>
-        <span id="join-our-newsletter">Join our newsletter for updates</span>
-        <input type="email" value="" name="EMAIL" placeholder="Your e-mail address" class="required email" id="mce-EMAIL">
-        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_294dfa55a7b056bcc82ffae2d_409201e872" tabindex="-1" value=""></div>
-        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="medium green button" />
-      </form>
-
-    </div>
-
-    <!-- <div id="register-button">
-    <a href="/tickets" class="green big button">Register now</a>
-    <div id="early-birds">SAVE ON<br>EARLY BIRDS<br>TICKETS</div>
-  </div> -->
-
-</div>
-</section>
-
-<div id="featured">
-
-<section id="tickets">
+<section id="meeting-berlin">
   <div class="container">
-    <div class="inside">
-      <h2>Early bird ticket sales <br><small>starts on Wed, Apr 20th at 13:00 CET</small></h2>
-      <a href="https://eventil.com/polyconf/polyconf-16" class="button big white">Soon available</a>
+
+    <img src="/assets/krakow-gray.svg" id="landmark" />
+
+    <h1 class="color-blue transform-normal">POLY CONF x KRAKOW</h1>
+    <p class="meeting-info">
+      <span class="date"><em>When?</em> April 20th, 2016</span>
+      <span class="location"><em>Where?</em> hub:raum Krakow, Przemysłowa 12 30-701 Kraków</span>
+    </p>
+    <p class="narrow">PolyConf satellite meetings are about bringing together people interested in polyglot approach to programming with the aim to promote local companies and communities. Those meetups are held in various European cities with the support of local companies. Each meetup will have 3-4 talks (max 15 minutes each) followed by a networking session.</p>
+    <p class="narrow">We are happy to have <a href="https://www.erlang-solutions.com/" target="_blank">Erlang Solutions</a>, <a href="https://www.hubraum.com/locations/krakow" target="_blank">hub:raum</a> and <a href="https://nukomeet.com/" target="_blank">Nukomeet</a> on board!</p>
+
+
+    <div class="agenda">
+
+      <h3>Agenda</h3>
+
+      <div class="schedule">
+
+        <div class="time-slot">
+
+          <div class="talk">
+            <div class="title">Can Erlang be glued to other languages?</div>
+            <div class="sub">Rafał Studnicki</div>
+          </div>
+
+        </div>
+
+        <div class="time-slot">
+
+          <div class="talk">
+            <div class="title">Elixir and Elm - the perfect couple</div>
+            <div class="sub">Tomasz Kowal (<a href="http://www.twitter.com/snajper47" target="_blank">@snajper47</a>)</div>
+          </div>
+
+        </div>
+
+      </div>
+
     </div>
+
+    <div class="button-container">
+      <a href="https://eventil.com/polyconf/polyconf-satellite-x-cracow" class="green big button">Get free ticket now</a>
+    </div>
+
+    <h4>A chance to win PolyConf ticket!</h4>
+    <p class="narrow">From those of you who will get a 'free ticket' we are going to draw a ticket for main conference PolyConf16. Don't think twice! </p>
+
+
+    <div class="partners narrow">
+      <h3>Partners</h3>
+      <div class="sponsor">
+        <a href="http://www.erlang-solutions.com" target="_blank">
+          <figure><img src="/assets/sponsors-partners/erlang.png" alt="Erlang" /></figure>
+        </a>
+      </div>
+      <div class="sponsor">
+        <a href="https://www.hubraum.com/locations/krakow" target="_blank">
+          <figure><img src="/assets/sponsors-partners/hubraum.png" alt="Hubraum" /></figure>
+        </a>
+      </div>
+      <div class="sponsor">
+        <a href="https://nukomeet.com" target="_blank">
+          <figure><img src="/assets/sponsors-partners/nukomeet.svg" alt="Nukomeet" /></figure>
+        </a>
+      </div>
+    </div>
+
   </div>
 </section>
 
-<section id="satelites">
+
+<div class="full-modal" id="speaker-modal">
+
   <div class="container">
-    <figure id="orbit-1" class="orbit"></figure>
-    <figure id="orbit-2" class="orbit"></figure>
-    <figure id="orbit-3" class="orbit"></figure>
-    <div class="inside">
-      <h2>POLYCONF<br>SATELLITES</h2>
-      <p>Krakow &nbsp;&middot;&nbsp; NY &nbsp;&middot;&nbsp; SF &nbsp;&middot;&nbsp; London &nbsp;&middot;&nbsp; Paris</p>
-      <a href="/satellites" class="button medium green">Learn more</a>
-    </div>
+
+      <div id="speaker-details" class="details">
+
+        <figure class="avatar"></figure>
+        <div class="text">
+          <h2>Name Surname</h2>
+          <h3>Position</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo. Sed posuere consectetur est at lobortis. Aenean lacinia bibendum nulla sed consectetur. Nulla vitae elit libero, a pharetra augue. Maecenas faucibus mollis interdum.</p>
+          <ul class="tags">
+            <li>tag</li>
+            <li>tag</li>
+          </ul>
+          <ul class="social">
+            <li><a href="#">&nbsp;</a></li>
+            <li><a href="#">&nbsp;</a></li>
+            <li><a href="#">&nbsp;</a></li>
+            <li><a href="#">&nbsp;</a></li>
+          </ul>
+        </div>
+
+      </div>
+
   </div>
-</section>
+
+  <nav>
+    <div class="inside">
+      <a href="#" id="modal-prev"></a>
+      <a href="#" id="modal-next"></a>
+    </div>
+  </nav>
 
 </div>
-
-<section id="about">
-  <div class="container">
-
-    <div class="text">
-
-      <h2>About POLYCONF</h2>
-      <p class="lead">PolyConf is a three-day, single track, multi-disciplinary conference on advanced technologies for programmers interested in polyglot approach to software development.<p>
-
-        <h3>History</h3>
-        <p>PolyConf succeeds RuPy, a Ruby and Python conference founded in 2006. Over 10 years the conference has grown and disseminated to several countries (Poland, Czech Republic, Hungary, Brazil) as well as to other programming languages.</p>
-
-        <h3>Mission</h3>
-        <p>PolyConf mission is to promote polyglot approach to software development and foster cross-pollination between various technologies and their communities.</p>
-
-      </p>
-
-    </div>
-  </section>
-
-  <section id="grid">
-    <div class="video element">
-      <div class="ratio"></div>
-      <div class="vcenter">
-        <span class="play"><img src="/assets/video-play.svg" /></span>
-        <span class="title">Open 2015 video summary</span>
-      </div>
-      <a href="https://www.youtube.com/watch?v=OWmsgUoTqyk" target="_blank" class="image" id="link-to-video-modal"></a>
-    </div>
-    <div class="twitter element">
-      <div class="inside">
-        <figure class="avatar"><img src="/assets/twitter/makisotman.jpg" /></figure>
-        <p>Great speakers, great conversations, great community. Many thanks team @polyconfhq for an outstanding conference. See you soon! #polyconf</p>
-        <a href="http://twitter.com/MakisOtman">@MakisOtman</a>
-      </div>
-    </div>
-    <div class="twitter element third">
-      <div class="inside">
-        <figure class="avatar"><img src="/assets/twitter/karolinaferenz.jpg" /></figure>
-        <p>Thanks for having us @polyconfhq! Had an amazing time talking and listening to other speakers! Very inspiring #polyconf rocks!</p>
-        <a href="http://twitter.com/karolinaferenz">@karolinaferenz</a>
-      </div>
-    </div>
-    <div class="twitter element fourth">
-      <div class="inside">
-        <figure class="avatar"><img src="/assets/twitter/mehowte.jpg" /></figure>
-        <p>Thanks @polyconfhq team for another edition of an awesome conference! You rock!</p>
-        <a href="http://twitter.com/mehowte">@mehowte</a>
-      </div>
-    </div>
-    <div class="gallery element">
-      <div class="ratio"></div>
-      <div class="vcenter">
-        <span class="play"><img src="/assets/gallery.svg" /></span>
-        <span class="title">Open 2015 gallery</span>
-      </div>
-      <a href="https://www.flickr.com/photos/128377420@N05/albums/72157653205147443/page1" class="image" target="_blank" id="link-to-gallery-modal"></a>
-    </div>
-    <div class="twitter element">
-      <div class="inside">
-        <figure class="avatar"><img src="/assets/twitter/asolovyov.jpg" /></figure>
-        <p>#polyconf was a best conference I've attended for a long, long time. Definitely plan to get back next year. :)</p>
-        <a href="http://twitter.com/asolovyov">@asolovyov</a>
-      </div>
-    </div>
-
-  </section>
-  <!--
-
-  <div class="full-modal" id="video-modal">
-
-  <div class="container">
-
-  <iframe width="853" height="480" src="https://www.youtube.com/embed/OWmsgUoTqyk" frameborder="0" allowfullscreen></iframe>
-
-</div>
-
-</div>
--->
-
-<!--
-<script>
-
-$(function(){
-
-
-$("#link-to-video-modal").click(function(event) {
-event.preventDefault();
-console.log("abc");
-
-$(".full-modal").fadeIn(500,function(){
-$("body").css("overflow","hidden");
-$(document).on("keyup.modalClose",function(e) {
-if (e.keyCode == 27 || e.keyCode == 67) {
-$(".full-modal").fadeOut(500,function(){
-$("body").css("overflow","scroll");
-})
-}
-});
-})
-
-})
-
-})
-
-</script>
--->
 
 <section id="sponsors">
   <div class="container">
@@ -327,6 +263,7 @@ $("body").css("overflow","scroll");
     </div>
   </div>
 </section>
+
 
 
 
