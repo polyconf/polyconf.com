@@ -1,4 +1,4 @@
-aaa<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
@@ -46,21 +46,19 @@ aaa<!DOCTYPE html>
   <ul>
     <li ><a href="/"><span>About</span></a></li>
     <li ><a href="/satellites"><span>Satellites</span></a></li>
-    <!-- <li class="soon"><a href="#"><span>Agenda</span></a></li> -->
-    <!-- <li ><a href="/tickets"><span>Tickets</span></a></li> -->
+    <li ><a href="/agenda"><span>Agenda</span></a></li>
     <li ><a href="/speakers"><span>Speakers</span></a></li>
-    <!-- <li class="soon"><a href="#"><span>Speakers</span></a></li> -->
-    <li ><a href="/sponsorship"><span>Become a sponsor</span></a></li>
-<!--     <li  class="active" ><a href="/venue"><span>Venue</span></a></li> -->
-<!--     <li ><a href="/jobs"><span>Jobs</span></a></li> -->
-<!--     <li><a href="#" id="more-text-link"><span>More</span><i><span></span></i></a></li> -->
+    <li ><a href="/contact"><span>contact</span></a></li>
+    <li  class="active" ><a href="/venue"><span>Venue</span></a></li>
+    <li ><a href="http://jobs.polyconf.com"><span>Jobs</span></a></li>
+    <li><a href="#" id="more-text-link"><span>More</span><i><span></span></i></a></li>
   </ul>
 </nav>
 
     </header>
 
     
-  
+
 <section id="venue">
 
   <div class="container">
@@ -69,12 +67,27 @@ aaa<!DOCTYPE html>
     <p class="lead">For second time Poly Conf will take place at The Faculty of Law and Administration<br/>
     of Adam Mickiewicz University in the heart of the city of Poznan, Poland.</p>
 
+    <div id="map-container">
+      <div>
+        <div id="map">
+        </div>
+      </div>
+    </div>
+
+    <div id="gallery">
+      <div class="row">
+        <div class="photo"><img src="/assets/venue/6.jpg" /></div>
+        <div class="photo"><img src="/assets/venue/3.jpg" /></div>
+        <div class="photo"><img src="/assets/venue/1.jpg" /></div>
+        <div class="photo"><img src="/assets/venue/2.jpg" /></div>
+        <div class="photo"><img src="/assets/venue/5.jpg" /></div>
+        <div class="photo"><img src="/assets/venue/4.jpg" /></div>
+      </div>
+    </div>
+
   </div>
-  
-  <div id="map">
-    
-  </div>
-  
+
+
   <script type="text/javascript">
 
     function initialize() {
@@ -103,9 +116,9 @@ aaa<!DOCTYPE html>
       });
     }
     google.maps.event.addDomListener(window, 'load', initialize);
-  
+
     </script>
-  
+
 </section>
 
 <section id="sponsors">
@@ -114,6 +127,7 @@ aaa<!DOCTYPE html>
     <h2 class="color-teal">Sponsors</h2>
     <p class="lead">It is thanks to the help of our sponsors and supporters that the conference is made possible each year.<br>Have a look on who they are and what they do.</p>
 
+<!--
     <div class="sponsors" id="platinum-sponsors">
       <h3>Platinum sponsors</h3>
     </div>
@@ -121,6 +135,7 @@ aaa<!DOCTYPE html>
     <div class="sponsors" id="gold-sponsors">
       <h3>Gold sponsors</h3>
     </div>
+-->
 
     <div class="sponsors" id="silver-sponsors">
       <h3>Silver sponsors</h3>
@@ -223,8 +238,23 @@ aaa<!DOCTYPE html>
         </a>
       </div>
       <div class="sponsor">
-        <a href="https://www.facebook.com/Krakow.Ruby.User.Group/">
+        <a href="http://www.meetup.com/Krakow-Ruby-Users-Group/">
           <figure><img src="/assets/supporters/krug.png" alt="Kraków Ruby User Group" /></figure>
+        </a>
+      </div>
+      <div class="sponsor">
+        <a href="http://trojmiasto.jug.pl/pl">
+          <figure><img src="/assets/supporters/trojmiasto-jug.svg" alt="Trójmiasto JUG" /></figure>
+        </a>
+      </div>
+      <div class="sponsor">
+        <a href="http://www.juglodz.pl/">
+          <figure><img src="/assets/supporters/jug-lodz.png" alt="JUG Łódź" /></figure>
+        </a>
+      </div>
+      <div class="sponsor">
+        <a href="https://www.womenwhocode.com/berlin">
+          <figure><img src="/assets/supporters/women-who-code.png" alt="Women Who Code" /></figure>
         </a>
       </div>
     </div>
@@ -300,10 +330,15 @@ aaa<!DOCTYPE html>
   <a id="close-menu-link"><span></span></a>
 
   <ul class="mobile-menu">
-    <li><a href="/">About</a></li>
-    <li><a href="/satellites">Satellites</a></li>
-    <li><a href="/speakers">Speakers</a></li>
-    <li><a href="/sponsorship">Become a sponsor</a></li>
+    <li class="show-on-mobile"><a href="/">About</a></li>
+    <li class="show-on-more show-on-mobile"><a href="/satellites">Satellites</a></li>
+    <li class="show-on-mobile"><a href="/agenda">Agenda</a></li>
+    <li class="show-on-mobile"><a href="/speakers">Speakers</a></li>
+    <li class="show-on-more show-on-mobile"><a href="/sponsorship">Become a sponsor</a></li>
+    <li class="show-on-more show-on-mobile"><a href="/practical">Practical information</a></li>
+    <li class="show-on-mobile"><a href="/venue">Venue</a></li>
+    <li class="show-on-mobile"><a href="/contact">Contact</a></li>
+    <li class="show-on-more show-on-mobile"><a href="/terms">Terms and Conditions</a></li>
   </ul>
 <!--
   <ul class="none">
@@ -316,13 +351,13 @@ aaa<!DOCTYPE html>
 -->
   <h3>Previous editions</h3>
   <ul>
-    <li><a href="#">PolyConf 2015</a></li>
-    <li><a href="#">PolyConf 2014</a></li>
+    <li class="show-on-more show-on-mobile"><a href="#">PolyConf 2015</a></li>
+    <li class="show-on-more show-on-mobile"><a href="#">PolyConf 2014</a></li>
   </ul>
   <h3>Follow us</h3>
   <ul class="social">
-    <li><a href="#" class="facebook">&nbsp;</a></li>
-    <li><a href="#">&nbsp;</a></li>
+    <li class="show-on-more show-on-mobile"><a href="#" class="facebook">&nbsp;</a></li>
+    <li class="show-on-more show-on-mobile"><a href="#">&nbsp;</a></li>
   </ul>
 
 </div>
@@ -334,7 +369,7 @@ aaa<!DOCTYPE html>
   
   <script type="text/javascript" src="/assets/vendor.eebab789d59b4096484eedce8c5f159b.js"></script>
   
-  <script type="text/javascript" src="/assets/app.edc08af01792298ad829c2426682ecdf.js"></script>
+  <script type="text/javascript" src="/assets/app.33087248ff2c99ad39ae98581cbfc5a0.js"></script>
   
 
   <script type="text/javascript">
