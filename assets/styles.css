@@ -1301,6 +1301,15 @@ body.sponsors #sponsors-page #partners-supporters .sponsor figure {
           width: 100%;
           height: auto;
           display: block; }
+      .agenda #three-days .day .schedule .time-slot .talk.keynote {
+        background: #1E9999; }
+        .agenda #three-days .day .schedule .time-slot .talk.keynote .title {
+          color: #fff; }
+        .agenda #three-days .day .schedule .time-slot .talk.keynote .sub {
+          color: rgba(255, 255, 255, 0.5); }
+        .agenda #three-days .day .schedule .time-slot .talk.keynote .button {
+          background: white;
+          color: #106B99; }
       .agenda #three-days .day .schedule .time-slot .talk .title {
         font-size: 1.11111rem;
         line-height: 1.1em; }
