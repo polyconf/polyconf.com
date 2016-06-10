@@ -152,6 +152,11 @@ ol {
   margin: 0;
   padding: 0; }
 
+ul.styled {
+  list-style-type: square;
+  margin-left: 1em;
+  padding-left: 1em; }
+
 dl {
   margin-bottom: 0.75em; }
   dl dt {
@@ -510,6 +515,101 @@ footer {
         color: #232833; }
         footer #right-footer nav li a:hover {
           color: rgba(61, 66, 76, 0.5); }
+
+.row {
+  display: block; }
+  .row::after {
+    clear: both;
+    content: "";
+    display: table; }
+  .row .columns-1 {
+    float: left;
+    display: block;
+    margin-right: 5%;
+    width: 3.75%; }
+    .row .columns-1:last-child {
+      margin-right: 0; }
+  .row .columns-2 {
+    float: left;
+    display: block;
+    margin-right: 5%;
+    width: 12.5%; }
+    .row .columns-2:last-child {
+      margin-right: 0; }
+  .row .columns-3 {
+    float: left;
+    display: block;
+    margin-right: 5%;
+    width: 21.25%; }
+    .row .columns-3:last-child {
+      margin-right: 0; }
+  .row .columns-4 {
+    float: left;
+    display: block;
+    margin-right: 5%;
+    width: 30%; }
+    .row .columns-4:last-child {
+      margin-right: 0; }
+  .row .columns-5 {
+    float: left;
+    display: block;
+    margin-right: 5%;
+    width: 38.75%; }
+    .row .columns-5:last-child {
+      margin-right: 0; }
+  .row .columns-6 {
+    float: left;
+    display: block;
+    margin-right: 5%;
+    width: 47.5%; }
+    .row .columns-6:last-child {
+      margin-right: 0; }
+  .row .columns-7 {
+    float: left;
+    display: block;
+    margin-right: 5%;
+    width: 56.25%; }
+    .row .columns-7:last-child {
+      margin-right: 0; }
+  .row .columns-8 {
+    float: left;
+    display: block;
+    margin-right: 5%;
+    width: 65%; }
+    .row .columns-8:last-child {
+      margin-right: 0; }
+  .row .columns-9 {
+    float: left;
+    display: block;
+    margin-right: 5%;
+    width: 73.75%; }
+    .row .columns-9:last-child {
+      margin-right: 0; }
+  .row .columns-10 {
+    float: left;
+    display: block;
+    margin-right: 5%;
+    width: 82.5%; }
+    .row .columns-10:last-child {
+      margin-right: 0; }
+  .row .columns-11 {
+    float: left;
+    display: block;
+    margin-right: 5%;
+    width: 91.25%; }
+    .row .columns-11:last-child {
+      margin-right: 0; }
+  .row .columns-12 {
+    float: left;
+    display: block;
+    margin-right: 5%;
+    width: 100%; }
+    .row .columns-12:last-child {
+      margin-right: 0; }
+  .row .omega {
+    margin-right: 0; }
+  .row.three-columns .columns-4 {
+    margin-right: 0; }
 
 .home header nav li a {
   color: white; }
@@ -1302,14 +1402,8 @@ body.sponsors #sponsors-page #partners-supporters .sponsor figure {
           height: auto;
           display: block; }
       .agenda #three-days .day .schedule .time-slot .talk.keynote {
-        background: #1E9999; }
-        .agenda #three-days .day .schedule .time-slot .talk.keynote .title {
-          color: #fff; }
-        .agenda #three-days .day .schedule .time-slot .talk.keynote .sub {
-          color: rgba(255, 255, 255, 0.5); }
-        .agenda #three-days .day .schedule .time-slot .talk.keynote .button {
-          background: white;
-          color: #106B99; }
+        background: rgba(30, 153, 153, 0.1);
+        background: #E3ECED; }
       .agenda #three-days .day .schedule .time-slot .talk .title {
         font-size: 1.11111rem;
         line-height: 1.1em; }
@@ -2785,6 +2879,21 @@ body.meeting #meeting-london #landmark {
           width: 8rem;
           margin: 0 0 1rem;
           display: block; }
+
+.hotels .hotel {
+  margin-bottom: 2em; }
+  .hotels .hotel .special {
+    margin-top: -1rem;
+    color: #C12C00;
+    font-weight: 500; }
+
+.bus {
+  margin-bottom: 2em; }
+  .bus img {
+    float: left;
+    width: 4em; }
+  .bus p {
+    margin-left: 4.5em; }
 
 .unslider {
   overflow: auto;
