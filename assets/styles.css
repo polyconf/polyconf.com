@@ -1497,19 +1497,45 @@ body.speakers #speaker-list {
     content: "";
     display: table; }
   body.speakers #speaker-list .speaker {
-    float: left;
-    display: block;
-    margin-right: 5%;
-    width: 21.25%;
     margin-bottom: 40px;
     background: white;
     position: relative; }
-    body.speakers #speaker-list .speaker:last-child {
-      margin-right: 0; }
-    body.speakers #speaker-list .speaker:nth-child(4n) {
-      margin-right: 0; }
-    body.speakers #speaker-list .speaker:nth-child(4n+1) {
-      clear: left; }
+    @media screen and (min-width: 75em) {
+      body.speakers #speaker-list .speaker {
+        float: left;
+        display: block;
+        margin-right: 5%;
+        width: 21.25%; }
+        body.speakers #speaker-list .speaker:last-child {
+          margin-right: 0; }
+        body.speakers #speaker-list .speaker:nth-child(4n) {
+          margin-right: 0; }
+        body.speakers #speaker-list .speaker:nth-child(4n+1) {
+          clear: left; } }
+    @media screen and (min-width: 40em) and (max-width: 63.9375em) {
+      body.speakers #speaker-list .speaker {
+        float: left;
+        display: block;
+        margin-right: 5%;
+        width: 47.5%; }
+        body.speakers #speaker-list .speaker:last-child {
+          margin-right: 0; }
+        body.speakers #speaker-list .speaker:nth-child(2n) {
+          margin-right: 0; }
+        body.speakers #speaker-list .speaker:nth-child(2n+1) {
+          clear: left; } }
+    @media screen and (max-width: 40em) {
+      body.speakers #speaker-list .speaker {
+        float: left;
+        display: block;
+        margin-right: 16.66667%;
+        width: 100%; }
+        body.speakers #speaker-list .speaker:last-child {
+          margin-right: 0; }
+        body.speakers #speaker-list .speaker:nth-child(1n) {
+          margin-right: 0; }
+        body.speakers #speaker-list .speaker:nth-child(1n+1) {
+          clear: left; } }
     body.speakers #speaker-list .speaker figure {
       background: #3D424C;
       background-size: cover;
